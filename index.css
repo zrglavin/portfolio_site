@@ -1,3 +1,18 @@
 body{
     text-align: center;
 }
+
+h1{
+    color: white;
+    background-color: blue;
+}
+
+h3{
+    color: white;
+    background-color: black;
+}
+
+#base{
+    color: white;
+    background-color: black;
+}
